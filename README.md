@@ -1,59 +1,55 @@
-# 👋 Hi, I'm Bion Solomon  
+# 👋 Hi, I'm Bion Solomon
 
-🚀 **Software Engineer (Backend & Full-Stack)** | 💡 **Efficiency Enthusiast** | 🤝 **Team Player**
+### Introduction
+I’m a **Full-Stack Software Engineer** with a passion for building **efficient, scalable, and high-performance systems**.  
+I specialize in **backend development**, while also having experience in full-stack projects. I enjoy **solving complex problems, collaborating in teams, and creating software that improves lives**.  
 
----
-
-### 👨‍💻 About Me
-Ever since I discovered the power of technology, I’ve been passionate about using it to **create solutions that improve lives**.  
-I love turning complex challenges into elegant, efficient systems that just work.
-
-At **Campoprime Labs**, I streamlined backend systems — improving performance by **30%** and simplifying code structure.  
-At **Koden AI Solutions**, I collaborated on building an app with a **modernized UI/UX**, reflecting my belief in the impact of teamwork and design-driven engineering.  
-I honed my core skills at **ALX Africa**, where I built projects that deepened my understanding of scalable software systems.
+**Career Goal:** I aim to contribute to impactful software projects, streamline backend processes, and continue learning cutting-edge technologies in cloud, AI, and web development.  
 
 ---
 
-### 🧠 What I Do
-- ⚙️ **Backend Development:** Django, FastAPI, NestJS  
-- 💻 **Frontend Development:** React, TypeScript  
-- ☁️ **Cloud & DevOps:** Docker, CI/CD, AWS  
-- 🧩 **Other Skills:** Git, Agile methodologies, Unit testing, RESTful APIs, Database design
+### 🛠 Skills
+**Languages:** Python, JavaScript, TypeScript, C  
+**Backend:** Django, FastAPI, Flask, NestJS, Langchaind RESTful APIs  
+**Frontend:** React, HTML, CSS  
+**Database:** MySQL, PostgreSQL  
+**Tools & Practices:** Git, Docker, Agile methodologies, Unit testing, CI/CD  
+**Cloud:** AWS, Heroku  
 
 ---
 
-### 🏗️ Featured Projects
-- 🏪 **Point of Sale System:**  
-  Built with Django & DRF; includes inventory management, user authentication, and transaction tracking.  
+### 📂 Projects
 
-- 🏠 **Airbnb Clone:**  
-  Full-stack project using Python (Flask) & MySQL — demonstrates API design, database architecture, and hosting.  
+1. **[Diet Nutritional Agent](https://github.com/bion-slmn/Diet_medical_reception_swarm)**  
+   Built with Python and LangChain, this project helps manage nutritional data and recommendations, featuring **inventory management, user authentication, and efficient workflow tracking**.  
 
-- 🔎 **Web Scrapers:**  
-  Automated data collection using Python, Flask/Django, and MySQL for scalable and performant scraping.
+2. **[Shule: School Financial Management System](https://github.com/bion-slmn/mySchool_v.1.0e)**  
+   A full-stack application using **Python (Django), MySQL, and React**, designed to manage school finances, track student payments, and provide a smooth, user-friendly interface for administrators.
 
----
 
-### 🎯 Goals
-I’m currently focused on:
-- Building **scalable backend systems**  
-- Contributing to **open-source projects**  
-- Exploring **AI-powered backend automation**
+
 
 ---
 
-### 🎮 Fun Facts
-- 🧩 I love **board games** — they sharpen my strategic thinking.  
-- 🕵️‍♂️ I enjoy **detective movies** for their logical twists and problem-solving thrill.  
-- ✨ I believe great code is **clean, efficient, and collaborative**.
+### 🌐 Social Links
+- **LinkedIn:** [linkedin.com/in/bion-solomon](https://www.linkedin.com/in/bion-solomon/)
+- 💌 **Email:** [bionsol25@gmail.com](mailto:bionsol25@gmail.com) 
+- **Twitter:** [twitter.com/bionsolomon](https://twitter.com/bionsolomon)  
 
 ---
 
-### 📫 Get in Touch
-💌 **Email:** [bionsol25@gmail.com](mailto:bionsol25@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/bion-solomon](https://www.linkedin.com/in/bion-solomon/)  
+### 📊 GitHub Stats & Badges
+![Bion's GitHub stats](https://github-readme-stats.vercel.app/api?username=bion-slmn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bion-slmn&layout=compact&theme=radical)  
+
+![Visitor Count](https://profile-counter.glitch.me/bion-slmn/count.svg)  
 
 ---
 
-> *“Code is more than syntax — it’s the bridge between ideas and impact.”*
+### 📢 Call to Action
+Check out my pinned projects above or **connect with me on LinkedIn** to collaborate on exciting software projects.  
+Feel free to **DM me** to discuss opportunities, ideas, or programming trends!
 
+---
+
+> *“Efficient code, impactful solutions, and teamwork are at the heart of what I build.”*
