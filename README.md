@@ -10,7 +10,7 @@ I specialize in **backend development**, while also having experience in full-st
 
 ### 🛠 Skills
 **Languages:** Python, JavaScript, TypeScript, C  
-**Backend:** Django, FastAPI, Flask, NestJS, Langchaind RESTful APIs  
+**Backend:** Django, FastAPI, Flask, NestJS, Langchain RESTful APIs  
 **Frontend:** React, HTML, CSS  
 **Database:** MySQL, PostgreSQL  
 **Tools & Practices:** Git, Docker, Agile methodologies, Unit testing, CI/CD  
@@ -42,7 +42,8 @@ I specialize in **backend development**, while also having experience in full-st
 ![Bion's GitHub stats](https://github-readme-stats.vercel.app/api?username=bion-slmn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bion-slmn&layout=compact&theme=radical)  
 
-![Visitor Count](https://profile-counter.glitch.me/bion-slmn/count.svg)  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bion-slmn.bion-slmn)
+
 
 ---
 
